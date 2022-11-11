@@ -1,0 +1,14 @@
+@import url('./nulStyle.scss');
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+
+body {
+  font-family: 'Arvo', serif;
+}
+.app-wrapper {
+  height: 100vh;
+}
+.wrapper-content {
+  width: 100%;
+}
