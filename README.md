@@ -8,4 +8,8 @@ Uset technologies:
 React,
 Redux,
 React-hook-form,
+Redux-thunk,
+SASS,
+HTMl,
+JavaScript,
 axios.
